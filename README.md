@@ -1,2 +1,2 @@
-some install scripts for arco
+some install/config scripts for arco
 dont recommend this if ur not me
