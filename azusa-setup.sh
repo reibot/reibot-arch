@@ -2,10 +2,10 @@
 
 #configure configs
 git clone https://github.com/reibot/reibot-arch
-rm ~/.config/qtile/config.py
-cp ~/reibot-arch/azusa/config.py ~/.config/qtile/
-rm ~/.config/qtile/sxhkdrc
-cp ~/reibot-arch/azusa/sxhkdrc ~/.config/qtile/
-rm ~/.config/qtile/scripts/autostart.sh
-cp ~/reibot-arch/azusa/autostart.sh ~/.config/qtile/scripts/
-cp ~/reibot-arch/azusa/azusa.jpg /usr/share/backgrounds/arcolinux/
+rm /home/rei/.config/qtile/config.py
+cp /home/rei/reibot-arch/azusa/config.py /home/rei/.config/qtile/
+rm /home/rei/.config/qtile/sxhkdrc
+cp /home/rei/reibot-arch/reibot-arch/azusa/sxhkdrc /home/rei/.config/qtile/
+rm /home/rei/.config/qtile/scripts/autostart.sh
+cp /home/rei/reibot-arch/azusa/autostart.sh /home/rei/.config/qtile/scripts/
+cp /home/reibot-arch/azusa/azusa.jpg /usr/share/backgrounds/arcolinux/
